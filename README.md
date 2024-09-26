@@ -22,8 +22,8 @@
 ## 👩‍💻  About Me
 
 <p align="left">
-  - 🔭 Working as a Software Engineer Intern in Caterpillar, Chennai.<br>
-  - 📚 Currently a final year MSc Data Science student at PSG College of Technology, Coimbatore.<br>
+  - 🔭 Working as a Software Engineer in Caterpillar, Chennai.<br>
+  - 📚 Graduated with an Masters in Data Science from PSG College of Technology, Coimbatore.<br>
   - 💭 Interested in Machine Learning & Data Analytics.<br/>
 </p>
 
