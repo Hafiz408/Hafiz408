@@ -1,75 +1,72 @@
-<h3 align="center">
+<h1 align="center">
         <samp>&gt; Hey there!, I am
-                <b><a href="https://github.com/Hafiz408">Mohammed Hafiz</a></b>
+                <b><a href="https://github.com/Hafiz408">Mohammed Hafiz</a></b> 👋
         </samp>
-</h3>
+</h1>
 
 <p align="center"> 
-  <samp>
-    「 I am a Software Engineer from <b>Coimbatore, India</b> 」
-    <br>
-    <br>
-  </samp>
+        Backend Engineer · Agentic AI · Python <br/>
+          <samp>
+                    「 <em>I build systems that eliminate manual work</em> 」<br><br>
+          </samp>
 </p>
 
-<div align="center">
-  <a href="https://linkedin.com/in/hafiz408" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+---
+
+## About Me
+
+- 🏢 SDE 2 @ **SAVOmart**, Bengaluru - microservices, pricing intelligence & agentic AI at retail scale
+- 🤖 I specialise in building **reliable backend systems** and **Agentic AI workflows** that replace manual work
+- 🎓 M.Sc. Data Science - PSG College of Technology
+- 🌱 Currently exploring LLM-powered automation and production ML systems
+- 📬 Open to **ML Engineering · Backend Engineering · Agentic AI** roles
+
+---
+
+## Tech Stack
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-1e2432?style=flat-square&logo=python&logoColor=c8d0e0)
+![JavaScript](https://img.shields.io/badge/JavaScript-1e2432?style=flat-square&logo=javascript&logoColor=c8d0e0)
+![SQL](https://img.shields.io/badge/SQL-1e2432?style=flat-square&logo=mysql&logoColor=c8d0e0)
+
+**Backend**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-1e2432?style=flat-square&logo=fastapi&logoColor=c8d0e0)
+![Django REST Framework](https://img.shields.io/badge/Django_REST-1e2432?style=flat-square&logo=django&logoColor=c8d0e0)
+![GraphQL](https://img.shields.io/badge/GraphQL-1e2432?style=flat-square&logo=graphql&logoColor=c8d0e0)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-1e2432?style=flat-square&logo=sqlalchemy&logoColor=c8d0e0)
+
+**Agentic AI & ML**
+
+![LangChain](https://img.shields.io/badge/LangChain-1e2432?style=flat-square&logo=langchain&logoColor=c8d0e0)
+![Agno](https://img.shields.io/badge/Agno-1e2432?style=flat-square&logoColor=c8d0e0)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-1e2432?style=flat-square&logoColor=c8d0e0)
+![LLMs](https://img.shields.io/badge/LLMs-1e2432?style=flat-square&logo=openai&logoColor=c8d0e0)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-1e2432?style=flat-square&logo=scikitlearn&logoColor=c8d0e0)
+![Pandas](https://img.shields.io/badge/Pandas-1e2432?style=flat-square&logo=pandas&logoColor=c8d0e0)
+![Streamlit](https://img.shields.io/badge/Streamlit-1e2432?style=flat-square&logo=streamlit&logoColor=c8d0e0)
+
+**Infra & Cloud**
+
+![Docker](https://img.shields.io/badge/Docker-1e2432?style=flat-square&logo=docker&logoColor=c8d0e0)
+![AWS](https://img.shields.io/badge/AWS-1e2432?style=flat-square&logo=amazonaws&logoColor=c8d0e0)
+![GCP](https://img.shields.io/badge/GCP-1e2432?style=flat-square&logo=googlecloud&logoColor=c8d0e0)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1e2432?style=flat-square&logo=postgresql&logoColor=c8d0e0)
+![MongoDB](https://img.shields.io/badge/MongoDB-1e2432?style=flat-square&logo=mongodb&logoColor=c8d0e0)
+
+---
+
+## Let's Connect
+
+If you're building at the backend–AI boundary and want someone who owns systems end-to-end, I'd love to talk.
+
+<p>
+  <a href="https://linkedin.com/in/hafiz408">
+    <img src="https://img.shields.io/badge/LinkedIn-1e2432?style=flat-square&logo=linkedin&logoColor=c8d0e0" />
   </a>
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-</div>
-
-## 👩‍💻  About Me
-
-<p align="left">
-  - 🔭 Working as a Software Engineer in Caterpillar, Chennai.<br>
-  - 📚 Graduated with a Master's degree in Data Science from PSG College of Technology, Coimbatore.<br>
-  - 💭 Interested in Machine Learning & Data Analytics.<br/>
+  <a href="mailto:hafiz408.mohammed@gmail.com">
+    <img src="https://img.shields.io/badge/hafiz408.mohammed@gmail.com-1e2432?style=flat-square&logo=gmail&logoColor=c8d0e0" />
+  </a>
 </p>
-
-## 🛠 Language and tools</h3>
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/salesforce/salesforce-original.svg" height="40" alt="salesforce logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="background-color:white" height="40" alt="css3 logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  style="background-color: white;"/>
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" height="40" alt="github logo" style="background-color: white;" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original-wordmark.svg" height="40" alt="streamlit logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" height="40" alt="flask logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original-wordmark.svg" height="40" alt="sqlalchemy logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original-wordmark.svg" height="40" alt="socketio logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain-wordmark.svg" height="40" alt="graphql logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-</div>
-
-## 🔥 My Stats :</h3>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hafiz408&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" style="padding:3px;" alt="stats graph"  />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hafiz408&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150"  style="padding:3px;" alt="languages graph"  />
-</div>
-
