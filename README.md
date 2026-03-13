@@ -1,6 +1,6 @@
-<h1 align="center">
+<h3 align="center">
   <samp>&gt; Hey there!, I am <a href="https://github.com/Hafiz408">Mohammed Hafiz</a> 👋</samp>
-</h1>
+</h3>
 
 <p align="center">
   Backend Engineer · Agentic AI · Python<br/>
@@ -9,7 +9,7 @@
 
 ---
 
-## About Me
+### About Me
 
 - 🏢 SDE @ **SAVOmart**, Bengaluru — microservices, pricing intelligence & agentic AI at retail scale
 - 🤖 I specialise in building **reliable backend systems** and **Agentic AI workflows** that replace manual work
@@ -19,22 +19,22 @@
 
 ---
 
-## Tech Stack
+### Tech Stack
 
-**Languages**
+#### Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-b8a000?style=flat-square&logo=javascript&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-**Backend**
+#### Backend
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Django REST Framework](https://img.shields.io/badge/Django_REST-092E20?style=flat-square&logo=django&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-c4008a?style=flat-square&logo=graphql&logoColor=white)
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-a33200?style=flat-square&logo=sqlalchemy&logoColor=white)
 
-**Agentic AI & ML**
+#### Agentic AI & ML
 
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![Agno](https://img.shields.io/badge/Agno-6C47FF?style=flat-square&logoColor=white)
@@ -44,7 +44,7 @@
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-c73030?style=flat-square&logo=streamlit&logoColor=white)
 
-**Infra & Cloud**
+#### Infra & Cloud
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-c47000?style=flat-square&logo=amazonaws&logoColor=white)
@@ -54,7 +54,7 @@
 
 ---
 
-## Let's Connect
+### Let's Connect
 
 If you're building at the backend–AI boundary and want someone who owns systems end-to-end, I'd love to talk.
 
